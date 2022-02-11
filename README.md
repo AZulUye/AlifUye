@@ -2,7 +2,7 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Zulkfily Al Firdausy**.\
+Perkenalkan nama saya **Muhammad Zulkfily Al Firdausy**.
 
 Saya seorang **Android Developer** 
 
