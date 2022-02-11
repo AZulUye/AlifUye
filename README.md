@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Zulkfily Al Firdausy**.
 
-Saya seorang **Android Developer** 
+Saya seorang **Flutter Front-End Developer** 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mzulkiflyaf/)ku ya.
 
