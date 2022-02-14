@@ -10,6 +10,7 @@ A student majoring in Computer Engineering who are passionate about developing s
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" /><span> </span>
+<img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/stmicroelectronics-%2303234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 
 ### Github Statistic
