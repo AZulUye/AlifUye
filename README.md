@@ -1,16 +1,19 @@
-# Halo semua! 
+### Hi! 👋 I'm Alif.
 
-Perkenalkan nama saya **Muhammad Zulkfily Al Firdausy**.
+A student majoring in Computer Engineering who are passionate about developing skills in the field of Android and Embedded Systems Development and can adapt well in working with teams. 
 
-Saya seorang **Flutter Front-End Developer** 
+- 🔭 I’m currently studying at [Electronic Engineering Polytechnic Institute of Surabaya](https://www.pens.ac.id/)
+- 🌱 I’m currently learning about Android Development and Robotic Embedded System
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mzulkiflyaf/)ku ya.
-
+### Github Statistic
 <p align="left">
 <a href="https://github.com/AlifUye">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlifUye&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/mzulkiflyaf/">LinkedIn</a>
 <!--
 **AlifUye/AlifUye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
