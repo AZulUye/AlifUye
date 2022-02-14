@@ -13,7 +13,7 @@ A student majoring in Computer Engineering who are passionate about developing s
 </p>
 
 ### Reach me on
-[![Email: mzalfirdausy1101@gmail.com](https://img.shields.io/badge/-mzalfirdausy1101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mzalfirdausy1101@gmail.com)
+[![Email: mzalfirdausy1101@gmail.com](https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mzalfirdausy1101@gmail.com)
 [![LinkedIn: Muhammad Zulkifly Al Firdausy](https://img.shields.io/badge/-Muhammad%20Zulkifly%20Al%20Firdausy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mzulkiflyaf/)](https://www.linkedin.com/in/mzulkiflyaf/)&nbsp;
 
 <!--
