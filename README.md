@@ -6,10 +6,10 @@ A student majoring in Computer Engineering who are passionate about developing s
 - 🌱 I’m currently learning about Android Development and Robotic Embedded System
 
 ## 🛠 Tech Stack
-<img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black" />
-<img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black" /><br>
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" /><br>
 
 ### Github Statistic
 <p align="left">
@@ -19,8 +19,7 @@ A student majoring in Computer Engineering who are passionate about developing s
 </p>
 
 ### Reach me on
-[![Email: mzalfirdausy1101@gmail.com](https://img.shields.io/badge/-?style=flat&logo=Gmail&logoColor=white)](mailto:mzalfirdausy1101@gmail.com)
-[![LinkedIn: Muhammad Zulkifly Al Firdausy](https://img.shields.io/badge/-Muhammad%20Zulkifly%20Al%20Firdausy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mzulkiflyaf/)](https://www.linkedin.com/in/mzulkiflyaf/)&nbsp;
+
 
 <!--
 **AlifUye/AlifUye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
