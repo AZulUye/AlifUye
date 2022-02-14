@@ -19,7 +19,7 @@ A student majoring in Computer Engineering who are passionate about developing s
 </p>
 
 ### Reach me on
-<a href = "https://www.linkedin.com/in/mzulkiflyaf/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/mzulkiflyaf/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **AlifUye/AlifUye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
