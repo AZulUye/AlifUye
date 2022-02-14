@@ -13,9 +13,13 @@ A student majoring in Computer Engineering who are passionate about developing s
 </p>
 
 ### Reach me on
-<a href = "https://www.linkedin.com/in/mzulkiflyaf/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+[![Email: mzalfirdausy1101@gmail.com](https://img.shields.io/badge/-mzalfirdausy1101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mzalfirdausy1101@gmail.com)
+[![LinkedIn: Muhammad Zulkifly Al Firdausy](https://img.shields.io/badge/-Muhammad%20Zulkifly%20Al%27Firdausy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mzulkiflyaf/)](https://www.linkedin.com/in/mzulkiflyaf/)&nbsp;
+
 <!--
 **AlifUye/AlifUye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram: Follow fachridantm](https://img.shields.io/badge/-@fachridantm-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/fachridantm)&nbsp;
+[![Telegram: fachridantm](https://img.shields.io/badge/-fachridantm-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/fachridantm)](https://t.me/fachridantm)&nbsp;
 
 Here are some ideas to get you started:
 
