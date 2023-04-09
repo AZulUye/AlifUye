@@ -3,7 +3,7 @@
 A student majoring in Computer Engineering who are passionate about developing skills in the field of Android and Embedded Systems Development and can adapt well in working with teams. 
 
 - 🔭 I’m currently studying at [Electronic Engineering Polytechnic Institute of Surabaya](https://www.pens.ac.id/)
-- 🌱 I’m currently learning about Flutter & Kotlin for Mobile Development and Robotic Embedded System
+- 🌱 I’m currently learning about Flutter & Kotlin for Mobile App Front End and Javascript for Back End
 
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black" /><span> </span>
