@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Alif.
 
-A student majoring in Computer Engineering who are passionate about developing skills in the field of Android and Embedded Systems Development and can adapt well in working with teams. 
+A student majoring in Computer Engineering who are passionate about developing skills in the field of Full Stack Mobile App Development and can adapt well in working with teams. 
 
 - 🔭 I’m currently studying at [Electronic Engineering Polytechnic Institute of Surabaya](https://www.pens.ac.id/)
 - 🌱 I’m currently learning about Flutter & Kotlin for Mobile App Front End and Javascript for Back End
