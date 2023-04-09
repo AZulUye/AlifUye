@@ -5,13 +5,13 @@ A student majoring in Computer Engineering who are passionate about developing s
 - 🔭 I’m currently studying at [Electronic Engineering Polytechnic Institute of Surabaya](https://www.pens.ac.id/)
 - 🌱 I’m currently learning about Flutter & Kotlin for Mobile App Front End and Javascript for Back End
 
-## 🛠 Tech Stack
+<!-- ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black" /><span> </span>
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /><span> </span>
 <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" /><span> </span>
 <img src="https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white" /><span> </span>
-<img src="https://img.shields.io/badge/stmicroelectronics-%2303234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/stmicroelectronics-%2303234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white" /> -->
 
 ### Github Statistic
 <p align="left">
